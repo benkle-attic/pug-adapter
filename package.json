@@ -1,7 +1,18 @@
 {
   "name": "benkle-attic-pug",
+  "version": "1.0.0",
   "description": "Pug adapter for the attic site generator",
-  "keywords": ["pug", "attic", "site generator", "generator"],
+  "keywords": [
+    "pug",
+    "attic",
+    "site generator",
+    "generator"
+  ],
   "author": "Benjamin Kleiner",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "benkle-attic": "github:benkle-apps/attic#master",
+    "pug": "~2.0.3",
+    "path": "~0.12.7"
+  }
 }
