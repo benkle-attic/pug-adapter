@@ -1,0 +1,7 @@
+{
+  "name": "benkle-attic-pug",
+  "description": "Pug adapter for the attic site generator",
+  "keywords": ["pug", "attic", "site generator", "generator"],
+  "author": "Benjamin Kleiner",
+  "license": "MIT"
+}
