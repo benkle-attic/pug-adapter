@@ -11,7 +11,7 @@
   "author": "Benjamin Kleiner",
   "license": "MIT",
   "dependencies": {
-    "benkle-attic": "github:benkle-apps/attic#master",
+    "benkle-attic": "github:benkle-attic/attic#master",
     "pug": "~2.0.3",
     "path": "~0.12.7"
   }
